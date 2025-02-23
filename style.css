@@ -36,12 +36,14 @@ div {
 
 nav {
     text-align:center;
-    margin-top:50px;
+    margin-top:25px;
 }
 
-header {
+h2 {
+    color:white;
+    font-family:"Comic Sans MS";
     text-align:center;
-    size:20px;
+    font-size:50px;
     font-family:"Comic Sans MS";
     margin-top:500px;
 }
