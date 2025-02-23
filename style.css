@@ -1,0 +1,35 @@
+h1 {
+    font-family:"Comic Sans MS";
+    font-size: 65px;
+    text-align:center;
+    color:white;
+}
+
+p {
+    color:white;
+    text-align:center;
+    font-family:"Comic Sans MS";
+}
+
+.button {
+    font-family:"Comic Sans MS";
+    background-color:grey;
+    border: none;
+    color: white;
+    padding: 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+  }
+  
+  .button1 {border-radius: 2px;}
+  .button2 {border-radius: 4px;}
+  .button3 {border-radius: 8px;}
+  .button4 {border-radius: 12px;}
+  .button5 {border-radius: 50%;}
+
+div {
+    text-align:center;
+}
